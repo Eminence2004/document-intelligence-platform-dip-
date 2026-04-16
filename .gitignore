@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Vector DB
+chroma_db/
+faiss_index/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
